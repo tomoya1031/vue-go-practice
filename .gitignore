@@ -1,0 +1,10 @@
+## db
+mysql-store
+mysql-logs
+
+## client
+node_modules
+
+.env
+
+init.sql
